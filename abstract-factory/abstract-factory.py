@@ -1,6 +1,6 @@
 """
-This code demonstrates how to use the Abstract Factory pattern in Python to create a GUI factory that can create
-buttons and checkboxes for different platforms (Windows and Mac).
+This code demonstrates how to use the Abstract Factory pattern in Python to create a GUI factory that
+can create buttons and checkboxes depending on the platform, namely Windows and Mac.
 
 The Abstract Factory pattern provides an interface for creating families of related objects without specifying
 their concrete classes.
