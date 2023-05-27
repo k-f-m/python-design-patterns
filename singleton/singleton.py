@@ -14,7 +14,7 @@ class Singleton:
 
     def __init__(self):
         if Singleton.__instance != None:
-            raise Exception("This class is a singleton!")
+            raise Exception("The Singleton class is initialized more than once!")
         else:
             Singleton.__instance = self
 
