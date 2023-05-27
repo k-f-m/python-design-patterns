@@ -4,6 +4,6 @@ The Abstract Factory pattern is a creational design pattern that provides an int
 
 Real-world examples where the Abstract Factory pattern can be used:
 
-- Abstract Factory provides a way for a GUI toolkit to create a family of user experience-specific components.
+- The Abstract Factory provides a way for a GUI toolkit to create a family of UI-specific components.
 - A game could use an Abstract Factory to create different types of enemies.
-- A database driver could use an Abstract Factory to create different types of connections
+- A database driver could use an Abstract Factory to create different types of connections.
